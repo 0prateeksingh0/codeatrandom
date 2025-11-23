@@ -5,11 +5,30 @@ A full-stack web application that helps users analyze skill gaps, generate perso
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌐 Live Demo
 
 - **GitHub Repository**: [https://github.com/0prateeksingh0/codeatrandom](https://github.com/0prateeksingh0/codeatrandom)
 - **Live Application**: Deploy on Vercel for instant live demo
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/0prateeksingh0/codeatrandom.git
+
+# Navigate to project directory
+cd codeatrandom
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Open http://localhost:3000 in your browser
+```
 
 ## 🚀 Features
 
